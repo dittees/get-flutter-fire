@@ -17,5 +17,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
-          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_FLUTTERFAST_92C25 }}
-          projectId: flutterfast-92c25
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_PRIMEVAL_GIZMO_434110_H1 }}
+          projectId: primeval-gizmo-434110-h1
